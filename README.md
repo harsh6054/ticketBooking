@@ -21,14 +21,10 @@ Connector	pymysql
 IDE (optional)	VS Code / PyCharm
 
 ⚙️ Installation and Setup
-1️⃣ Clone the repository
-git clone https://github.com/yourusername/MovieTicketBooking.git
-cd MovieTicketBooking
-
-2️⃣ Install dependencies
+1. Install dependencies
 pip install pymysql
 
-3️⃣ Set up MySQL database
+2. Set up MySQL database
 
 Open MySQL Workbench or Command Prompt
 
