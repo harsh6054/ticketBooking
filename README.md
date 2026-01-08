@@ -45,11 +45,6 @@ database = "movie_db"
 4️⃣ Run the app
 python main.py
 
-🧩 Example Screens
-
-(You can upload screenshots in a /screenshots folder and show them here)
-
-Home Screen	Booking Form	Confirmation
 
 	
 	
@@ -67,8 +62,4 @@ Add movie poster & trailer previews
 
 Harshvardhan Patil
 📧 [harshpatil6054@gmail.com]
-🔗 GitHub Profile
 
-📜 License
-
-This project is licensed under the MIT License — feel free to use and modify it.
