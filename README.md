@@ -45,8 +45,6 @@ database = "movie_db"
 4️⃣ Run the app
 python main.py
 
-
-	
 	
 🧠 Future Improvements
 
