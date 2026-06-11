@@ -4,14 +4,12 @@ A Movie Ticket Booking System built using Python (Tkinter GUI) and MySQL databas
 This desktop-based application allows users to view movies, select showtimes, book tickets, and manage reservations efficiently.
 
 🚀 Features
-
 🎞️ View available movies and show timings
 🎟️ Book, update, or cancel movie tickets
 👥 Manage customer information
 💾 Stores data securely in MySQL database
 💻 Simple and user-friendly Tkinter GUI
 🔍 Search and filter bookings easily
-
 🛠️ Technologies Used
 Category	Technology
 Frontend (GUI)	Python Tkinter
