@@ -2,7 +2,6 @@
 
 A Movie Ticket Booking System built using Python (Tkinter GUI) and MySQL database.
 This desktop-based application allows users to view movies, select showtimes, book tickets, and manage reservations efficiently.
-
 🚀 Features
 🎞️ View available movies and show timings
 🎟️ Book, update, or cancel movie tickets
@@ -17,15 +16,11 @@ Backend	Python
 Database	MySQL
 Connector	pymysql
 IDE (optional)	VS Code / PyCharm
-
 ⚙️ Installation and Setup
 1. Install dependencies :
 pip install pymysql
-
 2. Set up MySQL database:
-
 Open MySQL Workbench or Command Prompt
-
 Create a database (for example):
 
 CREATE DATABASE movie_db;
